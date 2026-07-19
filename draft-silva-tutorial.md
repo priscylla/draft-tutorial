@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Tutorial about drafts and github"
+abbrev: "Tutorial"
 category: info
 
 docname: draft-silva-tutorial-latest
