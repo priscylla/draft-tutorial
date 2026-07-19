@@ -14,7 +14,7 @@ Expires: 20 January 2027                          Your Organization Here
 
 Abstract
 
-   TODO Abstract
+   This a draft document from the github tutorial
 
 About This Document
 
