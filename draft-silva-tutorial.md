@@ -23,7 +23,7 @@ title: "TODO - Your title"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-silva-tutorial-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -45,9 +45,16 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: Priscylla Silva
+    organization: Instituto Federal de Alagoas
+    email: priscylla.silva@ifal.edu.br
+
+ -
+    fullname: Segundo Autor
     organization: Your Organization Here
-    email: your.email@example.com
+    email: email@email.br
+
+
 
 normative:
 
