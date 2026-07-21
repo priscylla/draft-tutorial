@@ -1,0 +1,83 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T02:32:03.377377+00:00",
+  "repo": "priscylla/draft-tutorial",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKGcs7zhl2n",
+      "title": "Update abstract section in draft document",
+      "url": "https://github.com/priscylla/draft-tutorial/pull/1",
+      "state": "MERGED",
+      "author": "priscylla",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:30:44Z",
+      "updatedAt": "2026-07-19T11:32:07Z",
+      "baseRepository": "priscylla/draft-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "45b561e8d841a07f35af62fbaa58329bc8810b1b",
+      "headRepository": "priscylla/draft-tutorial",
+      "headRefName": "priscylla-patch-1",
+      "headRefOid": "d9d12251700e3404302fe7aa2e087df16d33b773",
+      "closedAt": "2026-07-19T11:32:07Z",
+      "mergedAt": "2026-07-19T11:32:07Z",
+      "mergedBy": "priscylla",
+      "mergeCommit": {
+        "oid": "523ad564041b047281287f69582dabb88169841c"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
